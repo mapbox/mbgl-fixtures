@@ -1,0 +1,11 @@
+{
+  "id": "mapbox.mapbox-streets-v8,mapbox.mapbox-terrain-v2,mapbox.mapbox-bathymetry-v2",
+  "name": "Mapbox Streets V8 + Vector Terrain V2 + Mapbox Bathymetry v2",
+  "minzoom": 0,
+  "maxzoom": 16,
+  "bounds": [-180, -85.0511, 180, 85.0511],
+  "center": [0, 0, 0],
+  "tiles": [
+    "mapbox:///mapbox.mapbox-streets-v8,mapbox.mapbox-terrain-v2,mapbox.mapbox-bathymetry-v2/{z}/{x}/{y}.vector.pbf"
+  ]
+}
